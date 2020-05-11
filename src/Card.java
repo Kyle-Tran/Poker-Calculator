@@ -55,10 +55,6 @@ public class Card implements Comparable<Card>{
         Rank (final int value){
             this.value = value;
         }
-/*
-        public int rankValue(){
-            return this.value;
-        }*/
     }
 
     /**
